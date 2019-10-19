@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "39870371393",
+    "firebase_url": "https://flutter-d4293.firebaseio.com",
+    "project_id": "flutter-d4293",
+    "storage_bucket": "flutter-d4293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39870371393:android:30fe3becba94f2c66a98c0",
+        "android_client_info": {
+          "package_name": "com.example.notofication_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39870371393-arvjccff67ijs8d09dluu33movaufnin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1x9O-xVwQejLNm1ftM55dFcgNIwVaXH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39870371393-arvjccff67ijs8d09dluu33movaufnin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
